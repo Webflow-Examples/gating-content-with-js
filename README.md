@@ -4,7 +4,7 @@ A method for gating non-sensitive content using JavaScript
 
 ## Clone an example from Made in Webflow
 
-https://some-link.com
+https://webflow.com/made-in-webflow/website/gating-content-with-local-storage
 
 ## How this works
 
